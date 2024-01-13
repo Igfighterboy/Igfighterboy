@@ -11,16 +11,16 @@
 
 - 💬 Ask me about **Discord Bots, JavaScript, Node.js**
 
-- 🎮 Join my Discord server [EliTE DEVELOPMENT](#) 
+- 🎮 Join my Discord server [ELiTE DEVELOPMENT](#) 
   <img align="center" src="https://cdn.discordapp.com/attachments/971613288653791252/1195050727098298388/SPOILER_20240111_223327.png?ex=65b294b8&is=65a01fb8&hm=bae4f244cf7148269b87f874c4687627a625a0a1a7332c02903fe73a10426f5d&" alt="EliTE DEVELOPMENT Logo" height="30" width="40" />
 
-- 📧 Reach me at **your-email@gmail.com**
+- 📧 Reach me at **elitedevelopmentofficial14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/emmanuvel._efx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emmanuvel._efx" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/crimexgaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="crimexgaming" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.dexcord.xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.dexcord.xyz" height="30" width="40" /></a>
+<a href="https://instagram.com/ig.fighter_boy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emmanuvel._efx" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCiZMDVFNYlOzldo3G7qSxRQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="crimexgaming" height="30" width="40" /></a>
+<a href="https://discord.gg/BHfae3mj8d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.dexcord.xyz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
