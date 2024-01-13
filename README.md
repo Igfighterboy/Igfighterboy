@@ -11,7 +11,8 @@
 
 - 💬 Ask me about **Discord Bots, JavaScript, Node.js**
 
-- 🎮 Join my Discord server [EliTE DEVELOPMENT](#) ![EliTE DEVELOPMENT Logo](https://cdn.discordapp.com/attachments/971613288653791252/1195050727098298388/SPOILER_20240111_223327.png?ex=65b294b8&is=65a01fb8&hm=bae4f244cf7148269b87f874c4687627a625a0a1a7332c02903fe73a10426f5d&)
+- 🎮 Join my Discord server [EliTE DEVELOPMENT](#) 
+  <img align="center" src="https://cdn.discordapp.com/attachments/971613288653791252/1195050727098298388/SPOILER_20240111_223327.png?ex=65b294b8&is=65a01fb8&hm=bae4f244cf7148269b87f874c4687627a625a0a1a7332c02903fe73a10426f5d&" alt="EliTE DEVELOPMENT Logo" height="30" width="40" />
 
 - 📧 Reach me at **your-email@gmail.com**
 
