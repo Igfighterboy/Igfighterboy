@@ -31,4 +31,5 @@
 <!-- Add more tools and languages as needed -->
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&locale=en" alt="yourgithubusername" /
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&locale=en" alt="yourgithubusername" /></p>
