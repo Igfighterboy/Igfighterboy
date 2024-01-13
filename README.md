@@ -5,20 +5,21 @@
 
 - 📚 Studying in 10th grade
 
-- 💻 Working on [Alpha Musix](#) as my main project
+- 💻 Working on [ALPhA MUSIX](https://invite.alphamusix.xyz) as my main project
 
 - 🌱 Currently learning **JavaScript, Node.js, and Discord Bot Development**
 
 - 💬 Ask me about **Discord Bots, JavaScript, Node.js**
 
-- 🎮 Join my Discord server [EliTE DEVELOPMENT](#) ![EliTE DEVELOPMENT Logo](url-to-your-logo)
+- 🎮 Join my Discord server [EliTE DEVELOPMENT](#) ![EliTE DEVELOPMENT Logo](https://cdn.discordapp.com/attachments/971613288653791252/1195050727098298388/SPOILER_20240111_223327.png?ex=65b294b8&is=65a01fb8&hm=bae4f244cf7148269b87f874c4687627a625a0a1a7332c02903fe73a10426f5d&)
 
 - 📧 Reach me at **your-email@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://your-instagram-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram-handle" height="30" width="40" /></a>
-<!-- Add links to your other social media profiles if needed -->
+<a href="https://instagram.com/emmanuvel._efx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emmanuvel._efx" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/crimexgaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="crimexgaming" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.dexcord.xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.dexcord.xyz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
